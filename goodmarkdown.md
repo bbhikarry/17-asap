@@ -8,4 +8,4 @@ author:
 
 #  The first Header 
 
-Now adding a bit of text to demonstrate what a paragraph looks like
+Now adding a bit of text to demonstrate what a paragraph looks like.  It is pretty cool huh?
