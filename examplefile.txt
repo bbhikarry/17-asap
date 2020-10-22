@@ -1,0 +1,9 @@
+10:51 PM 10/21/2020
+
+So I made a new text file using notepad from the Git CMD like so;
+
+	start notepad examplefile.txt
+
+and then i typed this into it. Why? cos I need to see if I can use the prompt to interact with GitHub from C:\Users\novas\GIT17ASAP
+
+so there! 
