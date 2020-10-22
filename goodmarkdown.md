@@ -3,7 +3,7 @@ title:  'This is The Title'
 subtitle: "This is The Subtitle"
 author:
 - Author One
-- Author Two    
+- Author Two
 ...
 
 #  The first Header 
