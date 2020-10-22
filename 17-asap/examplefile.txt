@@ -1,4 +1,6 @@
-11:23 PM 10/21/2020
+11:37 PM 10/21/2020
+
+This file is the one I want to share if  I was working on a software. It has the same name of another . And it in a repo thats in a rep.
 
 So I made a new text file using notepad from the Git CMD like so;
 

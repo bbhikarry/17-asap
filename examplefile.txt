@@ -1,4 +1,4 @@
-10:51 PM 10/21/2020
+11:34 PM 10/21/2020
 
 So I made a new text file using notepad from the Git CMD like so;
 
@@ -6,4 +6,7 @@ So I made a new text file using notepad from the Git CMD like so;
 
 and then i typed this into it. Why? cos I need to see if I can use the prompt to interact with GitHub from C:\Users\novas\GIT17ASAP
 
-so there! 
+And it worked. However I'm having a little issue  Made mistake by setting up the GitHb repo inside a repo. So now I want to use the Git CMD prompt to mange everything  - thats the 2 folders. Hence this test. 
+
+I literally am going to send 2 files from the local machine to the remote repo and they will be files of the same name but diff content
+
