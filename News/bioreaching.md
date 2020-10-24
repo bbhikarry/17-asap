@@ -1,0 +1,5 @@
+## Bioreaching
+
+Environment Tobago hopes the GEF funded project Bioreach encounters no more stumbling blocks (such as a pandemic) before it hits Trinidad and Tobago ground. To prepare for its contribution your NGO is inot the process of leasing a plot of land in the southwest Even though arrangements have not been concretised at time of writing (late October 2020) we have already begun work on to estate - getting to know our Prospects as it were. What are we doing?
+
+To report in a manner that makes sense we have to go back to April when the measures against the coronavirus took precedence over - well everything. Reacting in a positively if absolutely worried way we looked to getting food into the ground. Not so much as for whom but As soon as possible please and thank you. So said so done we entered the Prospect. At this point it behooves us to say a heartfelt Gracias to Mr Gregory Weeks scion of the Prospect Estate who took to the idea of re-establishing the inheritance back as a player in the Tobago food supply chain.
