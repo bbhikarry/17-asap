@@ -1,4 +1,4 @@
-# 17-asap
+# T he 17asap idea
 
 17 As Soon as Possible is a journal of Trinidad and Tobago's walk to achieve Agenda 2030 of the Sustainable Development Goals. It documents historical achievements i.e things put in place or 'simply' narratives introduced. This space also maps from its date of publication (May 2019) local developmental efforts attempting to incorporate sustainability[^1].
 
