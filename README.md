@@ -13,11 +13,13 @@ A collection of publishing assets for Caribbean civil society including; bibliog
 - Asides
     - Newspaper clippings
     - Stakeholder webpages
+	
 - Lib
     - bibliographies
     - glossaries
 
 - News
+    - Sustainable Development stories
     - Latex newsletter template (ET)
     - Links to ET newsletters, video and podcasts
     - Grant calls (.pdf'd and screenshots)
