@@ -10,3 +10,5 @@ And it worked. However I'm having a little issue  Made mistake by setting up the
 
 I literally am going to send 2 files from the local machine to the remote repo and they will be files of the same name but diff content
 
+and this is a test of using a github branch inside the master.
+
