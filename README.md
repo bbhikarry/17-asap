@@ -26,4 +26,5 @@ A collection of publishing assets for Caribbean civil society including; bibliog
 
 - Set pieces
     - links to UN declarations
+    - linking Multilateral treaties (such as the Escazú Agreement)
     - links to Local law
