@@ -34,4 +34,4 @@ A collection of publishing assets for Caribbean civil society including; bibliog
         - VCAs
     - Scripts and Code
         - Diagrammes
-    - 
+    - Agent developments 
