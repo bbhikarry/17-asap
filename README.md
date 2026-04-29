@@ -6,7 +6,7 @@
 
 **What is this**?
 
-A collection of publishing assets for Caribbean civil society including; bibliographies (.bib), Tutorials for writing with Markdown, LaTeX (.md, .tex). Its also a repo for newsletters written in LaTex.
+A collection of publishing assets for Caribbean civil society including; bibliographies (.bib), Tutorials for writing with Markdown, LaTeX (.md, .tex). Its also a repo for newsletters written in LaTex. It also (as of 2025) features AI reviewed code specifically for diagramming (plots and mapping)
 
 **Folders**: 
 
@@ -28,3 +28,10 @@ A collection of publishing assets for Caribbean civil society including; bibliog
     - links to UN declarations
     - linking Multilateral treaties (such as the Escazú Agreement)
     - links to Local law
+
+- AI reviewed code
+    - Mapping
+        - VCAs
+    - Scripts and Code
+        - Diagrammes
+    - 
